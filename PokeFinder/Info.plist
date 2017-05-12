@@ -42,6 +42,6 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Sir/Madam. PokeFinder requires user current location and &quot;Allow&quot; to the option is much appreciated.</string>
+	<string>Sir/Madam. PokeFinder requires user current location and press &quot;Allow&quot; to the option is much appreciated.</string>
 </dict>
 </plist>
